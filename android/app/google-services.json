@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "397486296081",
+    "firebase_url": "https://friday-app-4c871-default-rtdb.firebaseio.com",
+    "project_id": "friday-app-4c871",
+    "storage_bucket": "friday-app-4c871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397486296081:android:3bab3a6772b8f8a4ea35b0",
+        "android_client_info": {
+          "package_name": "com.example.friday_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397486296081-drprh1439iqgdijebj07hi40kq1p3ueo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friday_app",
+            "certificate_hash": "b61274a50269e9a7b6f61bf392e5c2e20e921969"
+          }
+        },
+        {
+          "client_id": "397486296081-vq7ijrg6fde7mojp954gecaofolvd777.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpFp_fRDqLuPniQ3jHEeBQdpnEtvKLKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397486296081-vq7ijrg6fde7mojp954gecaofolvd777.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397486296081-bs0irmpdah0m1tcikdjus7mrnvqqja20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fridayApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
