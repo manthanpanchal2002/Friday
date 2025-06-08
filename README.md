@@ -1,16 +1,17 @@
-# friday_app
+## 🤖 Friday
+This is an intelligent personal assistant, enhanced with voice and image recognition capabilities. It supports conversational AI interactions through text and speech, while also allowing users to extract text from images (OCR). Whether chatting via voice or typing, also provides smart, contextual responses and task automation.
 
-A new Flutter project.
+## 🚀 Features
+- 🎙️ **Speech-to-Text (STT):** Convert spoken commands into actionable text.
+- 🗣️ **Text-to-Speech (TTS):** Read responses and information aloud.
+- 📷 **Image to Text (OCR):** Extract text content from images using OCR technology.
+- 📝 **Text-to-Text:** Process and respond to typed or textual commands.
 
-## Getting Started
+## 🛠️ Tech Stack
+- **Frontend:** Flutter
+- **Backend:** Firebase (Real-time Database + Authentication)
+- **Voice Processing:** SpeechRecognition, pyttsx3
+- **AI/ML:** Google Gemini 2.5 pro.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👤 Author
+- **Manthan Panchal**: [https://github.com/manthanpanchal2002](https://github.com/manthanpanchal2002)
